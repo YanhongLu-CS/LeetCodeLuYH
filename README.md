@@ -7,13 +7,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0001-two-sum/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0283-move-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0283-move-zeroes/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0001-two-sum/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0283-move-zeroes/) | undefined |
+## Union Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 <!---LeetCode Topics End-->
