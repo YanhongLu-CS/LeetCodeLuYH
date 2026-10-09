@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0001-two-sum/) | undefined |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -42,4 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 <!---LeetCode Topics End-->
