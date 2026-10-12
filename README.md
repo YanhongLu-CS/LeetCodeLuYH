@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0056-merge-intervals/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
+| [0238-product-of-array-except-self](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0283-move-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0283-move-zeroes/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## Hash Table
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
