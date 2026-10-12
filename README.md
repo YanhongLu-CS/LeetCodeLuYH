@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0015-3sum/) | undefined |
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0053-maximum-subarray/) | undefined |
+| [0056-merge-intervals](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0056-merge-intervals/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0283-move-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0283-move-zeroes/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0560-subarray-sum-equals-k/) | undefined |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0015-3sum/) | undefined |
+| [0056-merge-intervals](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0056-merge-intervals/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0053-maximum-subarray/) | undefined |
+## 快速排序
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0056-merge-intervals/) | undefined |
 <!---LeetCode Topics End-->
