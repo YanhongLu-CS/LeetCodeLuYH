@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0160-intersection-of-two-linked-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## Two Pointers
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0015-3sum/) | undefined |
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
+| [0160-intersection-of-two-linked-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
 | [0283-move-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0283-move-zeroes/) | undefined |
 ## Union Find
@@ -96,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 <!---LeetCode Topics End-->
