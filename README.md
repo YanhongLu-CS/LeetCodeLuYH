@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0053-maximum-subarray/) | undefined |
 | [0056-merge-intervals](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0056-merge-intervals/) | undefined |
+| [0073-set-matrix-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0238-product-of-array-except-self/) | undefined |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0001-two-sum/) | undefined |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0073-set-matrix-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0560-subarray-sum-equals-k/) | undefined |
@@ -80,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0073-set-matrix-zeroes/) | undefined |
 <!---LeetCode Topics End-->
