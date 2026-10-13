@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0001-two-sum/) | undefined |
 | [0015-3sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0015-3sum/) | undefined |
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
+| [0048-rotate-image](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0048-rotate-image/) | undefined |
 | [0053-maximum-subarray](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0053-maximum-subarray/) | undefined |
 | [0056-merge-intervals](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0056-merge-intervals/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0073-set-matrix-zeroes/) | undefined |
@@ -81,9 +82,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0048-rotate-image/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0048-rotate-image/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0073-set-matrix-zeroes/) | undefined |
 <!---LeetCode Topics End-->
