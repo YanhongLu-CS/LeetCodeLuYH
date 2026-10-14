@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0141-linked-list-cycle](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0141-linked-list-cycle/) | undefined |
+| [0142-linked-list-cycle-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0560-subarray-sum-equals-k/) | undefined |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0015-3sum/) | undefined |
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
 | [0141-linked-list-cycle](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0141-linked-list-cycle/) | undefined |
+| [0142-linked-list-cycle-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
 | [0283-move-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0283-move-zeroes/) | undefined |
@@ -104,9 +106,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0141-linked-list-cycle/) | undefined |
+| [0142-linked-list-cycle-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 ## Floyd 判圈算法
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0141-linked-list-cycle/) | undefined |
+| [0142-linked-list-cycle-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0142-linked-list-cycle-ii/) | undefined |
 <!---LeetCode Topics End-->
