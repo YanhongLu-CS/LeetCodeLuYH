@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0002-add-two-numbers/) | undefined |
 | [0048-rotate-image](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0048-rotate-image/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
 ## Matrix
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0002-add-two-numbers/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0141-linked-list-cycle](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0142-linked-list-cycle-ii/) | undefined |
@@ -117,5 +119,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0002-add-two-numbers/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0021-merge-two-sorted-lists/) | undefined |
 <!---LeetCode Topics End-->
