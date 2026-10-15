@@ -10,14 +10,19 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        if (head == null) {
-            return null;
-        } else if (head.next == null) {
+        if (head == null || head.next == null) {
             return head;
         } else {
-            ListNode dummy = new ListNode(0, head.next);
-            head.next = swapPairs(head.next.next);
-            dummy.next.next = head;
+            ListNode dummy = new ListNode(0, head);
+            ListNode prev = dummy;
+            while (prev.next != null && prev.next.next != null) {
+                ListNode first = prev.next;
+                ListNode second = prev.next.next;
+                first.next = second.next;
+                second.next = first;
+                prev.next = second;
+                prev = prev.next.next;
+            }
             return dummy.next;
         }
     }
