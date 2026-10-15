@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
+| [0094-binary-tree-inorder-traversal](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +126,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0002-add-two-numbers/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0024-swap-nodes-in-pairs/) | undefined |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 <!---LeetCode Topics End-->
