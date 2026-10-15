@@ -10,21 +10,22 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        Queue<ListNode> q = new LinkedList<>();
-        ListNode p = head;
-        while (p != null) {
-            if (q.size() < n + 1) q.offer(p);
-            else if (q.size() == n + 1) {
-                q.poll();
-                q.offer(p);
-            }
-            p = p.next;
+        ListNode dummy = new ListNode(0, head);
+        int length = getLength(head);
+        ListNode cur = dummy;
+        for (int i = 1; i < length - n + 1; i++) {
+            cur = cur.next;
         }
-        if (q.size() == n) {
-            return head.next;
-        } else {
-            q.peek().next = q.peek().next.next;
-            return head;
+        cur.next = cur.next.next;
+        ListNode ans = dummy.next;
+        return ans;
+    }
+    public int getLength(ListNode head) {
+        int length = 0;
+        while (head != null) {
+            ++length;
+            head = head.next;
         }
+        return length;
     }
 }
