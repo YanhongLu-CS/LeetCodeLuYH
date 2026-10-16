@@ -131,18 +131,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0226-invert-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0226-invert-binary-tree/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0226-invert-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0226-invert-binary-tree/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0226-invert-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0226-invert-binary-tree/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0226-invert-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0226-invert-binary-tree/) | undefined |
 <!---LeetCode Topics End-->
