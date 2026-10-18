@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [0283-move-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0283-move-zeroes/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0560-subarray-sum-equals-k/) | undefined |
+| [1036-rotting-oranges](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/1036-rotting-oranges/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0200-number-of-islands/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
+| [1036-rotting-oranges](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/1036-rotting-oranges/) | undefined |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0200-number-of-islands/) | undefined |
 | [0226-invert-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0226-invert-binary-tree/) | undefined |
+| [1036-rotting-oranges](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/1036-rotting-oranges/) | undefined |
 ## 树形 DP
 | Problem Name | Difficulty |
 | ------- | ------- |
