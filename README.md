@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0053-maximum-subarray/) | undefined |
+| [0070-climbing-stairs](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0070-climbing-stairs/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0002-add-two-numbers/) | undefined |
 | [0048-rotate-image](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0048-rotate-image/) | undefined |
+| [0070-climbing-stairs](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0070-climbing-stairs/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
@@ -175,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0543-diameter-of-binary-tree/) | undefined |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0070-climbing-stairs/) | undefined |
 <!---LeetCode Topics End-->
