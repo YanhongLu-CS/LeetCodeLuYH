@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0053-maximum-subarray/) | undefined |
 | [0056-merge-intervals](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0056-merge-intervals/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0073-set-matrix-zeroes/) | undefined |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0130-surrounded-regions](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0130-surrounded-regions/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0053-maximum-subarray/) | undefined |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
