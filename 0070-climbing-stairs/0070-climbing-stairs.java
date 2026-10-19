@@ -1,13 +1,7 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 2) return n;
-        int pre = 1;
-        int cur = 2;
-        for (int i = 3; i <= n; i++) {
-            int tmp = cur;
-            cur += pre;
-            pre = tmp;
-        }
-        return cur;
+        double sqrt_5 = Math.sqrt(5);
+        double fib_n = Math.pow((1 + sqrt_5) / 2, n + 1) - Math.pow((1 - sqrt_5) / 2,n + 1);
+        return (int)(fib_n / sqrt_5);
     }
 }
