@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0130-surrounded-regions](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0130-surrounded-regions/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
+| [0198-house-robber](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0198-house-robber/) | undefined |
 | [0200-number-of-islands](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0200-number-of-islands/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0070-climbing-stairs/) | undefined |
 | [0118-pascals-triangle](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0118-pascals-triangle/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
+| [0198-house-robber](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0198-house-robber/) | undefined |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
