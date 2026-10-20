@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0118-pascals-triangle/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0198-house-robber](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0198-house-robber/) | undefined |
+| [0279-perfect-squares](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0279-perfect-squares/) | undefined |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0048-rotate-image/) | undefined |
 | [0070-climbing-stairs](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0070-climbing-stairs/) | undefined |
 | [0189-rotate-array](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0189-rotate-array/) | undefined |
+| [0279-perfect-squares](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0279-perfect-squares/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0200-number-of-islands/) | undefined |
 | [0226-invert-binary-tree](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0226-invert-binary-tree/) | undefined |
+| [0279-perfect-squares](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0279-perfect-squares/) | undefined |
 | [1036-rotting-oranges](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/1036-rotting-oranges/) | undefined |
 ## 树形 DP
 | Problem Name | Difficulty |
@@ -185,4 +188,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0070-climbing-stairs/) | undefined |
+## 背包问题
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0279-perfect-squares/) | undefined |
+## 完全背包
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/YanhongLu-CS/LeetCodeLuYH/tree/main/0279-perfect-squares/) | undefined |
 <!---LeetCode Topics End-->
